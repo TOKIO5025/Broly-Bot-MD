@@ -37,7 +37,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/El-brayan502/BrolyBot-MOD && cd BrolyBot-MOD 
+git clone https://github.com/TOKIO5025/Broly-Bot-MD && cd BrolyBot-MOD 
 ```
 
 ```bash
